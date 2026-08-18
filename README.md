@@ -1,5 +1,8 @@
-# ⚙️ CAD Design of Robotics & Electronics
-![Planetary Gear Assembly Simulation](Simulation/planetary_gear_assembly2.gif)
+<h1 align="center">⚙️ CAD Design of Robotics & Electronics</h1>
+
+<p align="center">
+  <img src="Simulation/Planet_gear_assembly2.gif" alt="Planetary Gear Assembly Simulation" width="700">
+</p>
 
 A growing collection of **CAD designs, mechanical systems, electronic schematics, PCB designs, simulations, and engineering experiments** developed as part of my journey into robotics and electronics.
 
