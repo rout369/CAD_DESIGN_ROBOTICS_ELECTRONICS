@@ -10,13 +10,14 @@ The project contains the complete planetary gear assembly, individual components
 
 ### Planetary Gear Assembly in Motion
 
-![Planetary Gear Assembly Simulation](Images/planetary_gear_simulation.gif)
+<p align="center">
+  <img src="../Simulation/Planet_gear_assembly2.gif" alt="Planetary Gear Assembly Simulation" width="750">
+</p>
 
 The animation demonstrates the interaction between the **sun gear, planet gears, ring gear, and planet carrier** during operation.
 
 For the full-quality simulation:
-
-**[▶️ Open Full MP4 Simulation](Simulation/planetary_gear_simulation.mp4)**
+**[▶️ Open Full MP4 Simulation](../Simulation/Planet_gear_assembly.mp4)**
 
 ---
 
