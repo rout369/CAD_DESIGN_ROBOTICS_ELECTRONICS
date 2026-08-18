@@ -147,34 +147,6 @@ The complete mechanism was modeled and assembled using **FreeCAD**.
 
 ---
 
-## 📂 Project Structure
-
-```text
-Planetary-Gear-System/
-│
-├── Assembly/
-│   └── planetary_gear_assembly.FCStd
-│
-├── Parts/
-│   ├── Sun-Gear/
-│   ├── Planet-Gears/
-│   ├── Ring-Gear/
-│   └── Carrier/
-│
-├── Images/
-│   └── planetary_gear_simulation.gif
-│
-├── Simulation/
-│   └── planetary_gear_simulation.mp4
-│
-├── Documentation/
-│   └── CAD_Specifications.md
-│
-└── README.md
-```
-
----
-
 ## 📊 CAD Specifications
 
 Automatically generated CAD measurements and geometric information can be found in:
@@ -213,23 +185,6 @@ The main objectives were:
 
 ---
 
-## 🔭 Future Improvements
-
-Possible future improvements include:
-
-* Detailed gear tooth specifications
-* Module and pressure-angle calculations
-* Complete gear-ratio analysis
-* Torque and speed analysis
-* Improved assembly constraints
-* Higher-fidelity simulation
-* STEP/STL exports
-* 3D-printable versions
-* Motor integration
-* Integration with a robotic actuator
-* ROS 2 / Gazebo simulation
-
----
 
 ## 🛠️ Software
 
@@ -243,12 +198,6 @@ Possible future improvements include:
 
 ## 👨‍💻 Author
 
-**Vishal**
+****
 
 Engineering Student | Robotics & Electronics Enthusiast
-
----
-
-## 📄 License
-
-This project is distributed under the license specified in the root [`LICENSE`](../LICENSE) file.
